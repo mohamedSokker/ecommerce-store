@@ -21,6 +21,7 @@ const eslintConfig = [
 
       // Optional: You can disable other rules as needed
       // "react/jsx-key": "off",
+      "@typescript-eslint/no-empty-object-type": "off",
     },
   },
 ];
